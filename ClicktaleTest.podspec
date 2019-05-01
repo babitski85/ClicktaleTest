@@ -11,7 +11,7 @@ s.author            = { 'ClicktaleTest' => 'babitski85@gmail.com' }
 s.license           = { :type => 'Commercial', :file => 'LICENSE' }
 
 s.platform          = :ios
-s.source            = { :http => 'https://clicktaleltd.bintray.com/generic/com/clicktale/pods/3.1.0.111/sdk-3.1.0.111.tgz' }
+s.source            = { :http => 'https://clicktaleltd.bintray.com/generic/com/clicktale/pods/3.1.0.108/sdk-3.1.0.108.tgz' }
 
 s.ios.deployment_target = '9.0'
 s.ios.vendored_frameworks = 'Clicktale.framework'
